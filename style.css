@@ -1,0 +1,50 @@
+body {
+  font-family: "Tilt Neon";
+  background-color: #5D3891;
+  color: #F99417;
+  text-align: center;
+  padding: 30px;
+}
+
+h1, h2, h3 {
+  font-family: "Space Grotesk";
+  color: #A91079;
+}
+
+li {
+  display: inline;
+}
+
+ul {
+  padding: 0px;
+}
+
+.card {
+  background-color: #EEEEEE;
+  padding: 50px;
+  width: 700px;
+  margin: 25px auto;
+  border-radius: 5px;
+  border: 1px solid #EAEAEA;
+  box-shadow: 0 0 16px rgba(0,0,0,0.1);
+}
+
+#profile-pic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+a {
+  text-decoration: none;
+  color: #5D3891;
+  font-size: 18px;
+  font-weight: bold;
+  transition: 0.3s ease;
+}
+a:hover {
+  color: #781D42;
+}
+.btn-big {
+  font-size: 30px;
+  letter-spacing: 10px;
+}
